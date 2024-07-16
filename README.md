@@ -8,4 +8,4 @@
 # 2- Akademisyen olursa; bütün bir tabloya erişebilir
 #    Öğrenci olursa ; sadece kendi bilgisine erişebilir.
 # 3- Öğrenci kullanıcısı isteğe bağlı staj belgesi çıkartma.
-
+kjkk
