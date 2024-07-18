@@ -18,6 +18,12 @@ Ayrıca, işletmelerin ve üniversitenin ilgili birimlerinin de süreci izlemele
 
 ##BUSE##
 
+##ALİ##  
+
+------------ İhtiyaç Analizi ----------
+  Projenin ihtiyaçları öğrencilerin sistemde daha pratik bir yolla sistemden staj belgesi verileriyle beraber çekmesidir. (Alınan staj belgesini öğrenci sadece kendi bilgisini görecek şekilde almalıdır.)  Ve bunun yanında bu gerçekleştirilen işlemleri bir admin veya akademisyen tarafından incelenebilmesidir.  
+ ##ALİ###
+
 
 
 #2- Planlama ( hangi prog dili, yazılım araçaları, tamamlanama süresi)
