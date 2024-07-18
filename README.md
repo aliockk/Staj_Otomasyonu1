@@ -26,7 +26,7 @@ Ayrıca, işletmelerin ve üniversitenin ilgili birimlerinin de süreci izlemele
 
 
 1. Yazılım ve Araçlar
-     Web Teknolojileri: Web tabanlı uygulama için uygun programlama dilleri ve çerçeveler (C#      designer)
+     Web Teknolojileri: Web tabanlı uygulama için uygun programlama dilleri ve çerçeveler (C#)
 •	Backend Teknolojileri: Backend geliştirme için diller ve çerçeveler (C# visual studıo Windows form.netFramework)
 •	Veritabanı: Veritabanı yönetim sistemi (MySQL).
 BUSE##
