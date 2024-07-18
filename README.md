@@ -82,13 +82,15 @@ Ayrıca, işletmelerin ve üniversitenin ilgili birimlerinin de süreci izlemele
 
 
 #2- Planlama ( hangi prog dili, yazılım araçaları, tamamlanama süresi)
+
 ##BUSE##
 
 
 1. Yazılım ve Araçlar
      Web Teknolojileri: Web tabanlı uygulama için uygun programlama dilleri ve çerçeveler (C#      designer)
 •	Backend Teknolojileri: Backend geliştirme için diller ve çerçeveler (C# visual studıo Windows form.netFramework)
-•	Veritabanı: Veritabanı yönetim sistemi (MySQL).BUSE##
+•	Veritabanı: Veritabanı yönetim sistemi (MySQL).
+BUSE##
 
 
 #3- Tasarım (Kavramsal model burada yapılır, arayüz tasarlanır, estetik bir yapı nasıl yapılır düşünülür) 
