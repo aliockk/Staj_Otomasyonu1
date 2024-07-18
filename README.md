@@ -1,7 +1,6 @@
 #1- Başlatma(ihtiyaç belirleme)
 ##SEFA## Bu proje, bir öğrenci bilgi sistemi (ÖBS) geliştirmeyi amaçlamaktadır.
-ÖBS, öğrenci bilgilerini yönetmek, ders güncelleme işlemlerini gerçekleştirmek,
-not takibini yapmak ve çeşitli raporlamalar sunmak üzere tasarlanmıştır.##SEFA##
+ÖBS, öğrenci bilgilerini yönetmek,işlemlerini gerçekleştirmek üzere tasarlanmıştır.##SEFA##
 
 
 ##buse##
