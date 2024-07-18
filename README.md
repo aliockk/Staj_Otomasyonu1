@@ -1,11 +1,6 @@
-#Yapılan değişikliklerin altına yapılan değişikliğin tanımını yapmayı unutmayalım! Başına -f koyarak.
-#Kullanılan ide Visual Studio'dur.
-#Kullanıcılan dil C#.
-#Kullanılan veri tabanı ise MSSQL.
-
-
-# 1- layout --> iki tane input(kullanıcı adı, Parola)
-# 2- Akademisyen olursa; bütün bir tabloya erişebilir
-#    Öğrenci olursa ; sadece kendi bilgisine erişebilir.
-# 3- Öğrenci kullanıcısı isteğe bağlı staj belgesi çıkartma.
-kjkk
+1- Başlatma(ihtiyaç belirleme)
+2- Planlama ( hangi prog dili, yazılım araçaları, tamamlanama süresi)
+3- Tasarım (Kavramsal model burada yapılır, arayüz tasarlanır, estetik bir yapı nasıl yapılır düşünülür) 
+4- Gerçekleştirme (Diğer adı geliştirme, yazılım kodu yazılır ve ihtiyaçlara yönelik olduğundan emin olunur)
+5- Sınama (Diğer adı test etme, yazılım geliştirme aşamasının sonudur hata, güvenlik ve performans ölçülür)
+6- Bakım ve Onarım (Diğer adı yayınlama, yazılım kullanıma sunulur, kullanıcıdan geri bildirim alınır)
