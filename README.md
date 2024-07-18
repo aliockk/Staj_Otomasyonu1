@@ -6,7 +6,7 @@
 ##buse##
 
 
-Giresun Üniversitesi Meslek Yüksekokulları Koordinatörlüğü
+Giresun Üniversitesi Sağlık Yüksekokulları Koordinatörlüğü
 tarafından kullanılmak üzere tasarlanacak
 staj otomasyonu sistemi için gereksinimleri tanımlamaktadır. 
 Sistem, staj sürecini daha verimli ve izlenebilir 
