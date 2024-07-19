@@ -50,7 +50,29 @@ $$ALİ$$
   Proje Vizyonumu : 
 
 
-#3- Tasarım (Kavramsal model burada yapılır, arayüz tasarlanır, estetik bir yapı nasıl yapılır düşünülür) 
+#3- Tasarım (Kavramsal model burada yapılır, arayüz tasarlanır, estetik bir yapı nasıl yapılır düşünülür)
+##SEFA## Uygulamanın ismi ne olmalıdır?
+Uygulamanın hangi platformda çalışmasını istersiniz? (Windows, Web, Mobil vs.)
+Kullanıcıların giriş yapması için hangi yöntemleri kullanmak istersiniz?
+(Kullanıcı adı ve şifre, e-posta ile giriş, sosyal medya hesapları ile giriş vs.)
+Kullanıcıdan hangi bilgileri toplamayı planlıyorsunuz?
+(Öğrenci numarası, üniversite bilgisi, bölüm, staj başlangıç ve bitiş tarihleri,
+staj yeri bilgileri vs.)
+Formun içeriğinde başka hangi alanlar olmalıdır?
+Otomatik doldurulmuş ve imzalanabilir belge hangi formatlarda sunulmalıdır? (PDF, Word vs.)
+Belgenin imzalanması için elektronik imza entegrasyonu gerekli midir?
+Admin panelinde hangi bilgilerin görüntülenmesini istersiniz?
+Admin kullanıcıların hangi işlemleri yapabilmesini istersiniz?
+(Bilgi görüntüleme, onaylama/reddetme, bilgileri düzenleme, yeni kullanıcı ekleme vs.)
+Admin panelinde raporlama veya istatistik özellikleri gerekli midir?
+Uygulama için hangi güvenlik önlemlerini almak istersiniz? 
+(SSL sertifikası, çift aşamalı doğrulama, şifreleme vs.)
+Kullanıcıların ve adminlerin bildirim almasını istediğiniz durumlar nelerdir?
+(Form gönderildiğinde, form onaylandığında/reddedildiğinde vs.)
+Bildirimlerin hangi kanallardan yapılmasını istersiniz?
+(E-posta, SMS, uygulama içi bildirim vs.)
+Proje takvimi ve teslim tarihleri ile ilgili beklentileriniz nelerdir?
+Proje boyunca iletişim ve geri bildirim süreçleri nasıl yönetilmelidir? ##SEFA##
 
 
 #4- Gerçekleştirme (Diğer adı geliştirme, yazılım kodu yazılır ve ihtiyaçlara yönelik olduğundan emin olunur)
