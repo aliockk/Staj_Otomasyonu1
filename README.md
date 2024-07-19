@@ -27,14 +27,27 @@ Ayrıca, işletmelerin ve üniversitenin ilgili birimlerinin de süreci izlemele
 
 #2- Planlama ( hangi prog dili, yazılım araçaları, tamamlanama süresi)
 
+  -Proje Vizyonu
+  -Proje takvimi ve teslim tarihi
+  -Takım Kompozisyonu
+  -Grup ve bireysel sorumluluklar
+  -Mevcut kaynakların nasıl kullanılacağı
+  -Araçlar
+  -Proje iş akışı
+  
+
 ##BUSE##
 
 
 1. Yazılım ve Araçlar
      Web Teknolojileri: Web tabanlı uygulama için uygun programlama dilleri ve çerçeveler (C#)
 •	Backend Teknolojileri: Backend geliştirme için diller ve çerçeveler (C# visual studıo Windows form.netFramework)
-•	Veritabanı: Veritabanı yönetim sistemi (MySQL).
+•	Veritabanı: Veritabanı yönetim sistemi (MsSQL).
 BUSE##
+
+$$ALİ$$ 
+
+  Proje Vizyonumu : 
 
 
 #3- Tasarım (Kavramsal model burada yapılır, arayüz tasarlanır, estetik bir yapı nasıl yapılır düşünülür) 
